@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "slugify": "~1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

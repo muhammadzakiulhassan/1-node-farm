@@ -1,0 +1,3 @@
+**Question**: what is npm?? 
+//Answer//: npm => node packages manager that use by node js to build and manage open source packages
+            npm is actually command line interface it preinstalled in node.js
